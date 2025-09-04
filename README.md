@@ -20,3 +20,8 @@ Overload terjadi ketika dalam sebuah kelas terdapat beberapa metode dengan nama 
 
 ## Override
 Override adalah proses ketika subclass menuliskan ulang sebuah metode yang sudah ada di superclass. Tujuannya untuk menyesuaikan atau mengganti perilaku default dari metode tersebut sesuai dengan kebutuhan subclass.
+
+## Ringkasan
+Abstract class → kelas dasar yang tidak bisa diinstansiasi, dapat berisi atribut, method abstrak, maupun method biasa.
+Overloading → metode dengan nama sama tetapi parameter berbeda.
+Overriding → penulisan ulang metode superclass di subclass untuk menyesuaikan perilaku.
